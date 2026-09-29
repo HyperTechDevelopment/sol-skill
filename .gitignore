@@ -1,0 +1,15 @@
+# Ferramentas locais (índice, planos e screenshots de verificação)
+.codegraph/
+.omo/
+.playwright-mcp/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
